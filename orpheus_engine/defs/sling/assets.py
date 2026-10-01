@@ -4266,7 +4266,6 @@ playground_replication_config = {
         "public.projects": None,
         "public.redemptions": None,
         "public.ships": None,
-        "public.solid_cable_messages": None,
         "public.users": {
             "select": [
                 "id", "admin", "airtable_record_id", "ban_reason",

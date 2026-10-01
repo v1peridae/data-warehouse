@@ -251,7 +251,6 @@ WITH program_windows AS (
                    NULL::timestamptz),
         ('playground', TIMESTAMP WITH TIME ZONE '2026-09-25 00:00:00 America/New_York',
                    TIMESTAMP WITH TIME ZONE '2026-10-12 00:00:00 America/New_York')
-    
     ) AS t(program_name, start_at, end_at_exclusive)
 ),
 
